@@ -183,3 +183,6 @@ react-devtools
   ```powershell
   expo <comando> <opção>
   ```
+<hr>
+
+*Documentação completa e atualizada está disponível em inglês no site da Expo: https://docs.expo.dev/workflow/expo-cli/*
