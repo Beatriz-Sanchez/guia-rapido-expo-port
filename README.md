@@ -47,14 +47,14 @@ expo update
 - ir até onde você quer que a pasta fique e iniciar repositório expo
 
 ```powershell
-expo i <nome do projeto> --npm
+expo i <nome_do_projeto> --npm
 ```
 
 - Escolher a opção `blank`
 - ir até a pasta do projeto antes de abrir com o code
 
 ```powershell
-cd <nome do projeto>
+cd <nome_do_projeto>
 ```
 
 - testar usando `expo start`
