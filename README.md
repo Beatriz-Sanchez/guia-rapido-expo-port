@@ -38,7 +38,7 @@ OU
 expo update
 ```
 
-
+<hr>
 
 ## Iniciando um projeto Expo do 0
 
@@ -59,7 +59,7 @@ cd <nome_do_projeto>
 
 - testar usando `expo start`
 
-
+<hr>
 
 ## Instalando pacotes a projetos
 
@@ -79,7 +79,7 @@ expo add <pacote>
 
 - É possível adicionar `--npm` ou `--yarn`, mas não é necessário, ele já padroniza para o que você escolheu ao iniciar o projeto expo
 
-
+<hr>
 
 ## Continuando um projeto Expo já iniciado
 
@@ -121,7 +121,7 @@ web-build/
 
 ***se o projeto for muito antigo pode não rodar em um expo go novo, talvez seja uma boa ideia rodar também o ``expo update``
 
-
+<hr>
 
 ## Depurando apps Expo
 
@@ -166,7 +166,7 @@ npm install -g react-devtools
 react-devtools
 ```
 
-
+<hr>
 
 ## Checando comandos
 
