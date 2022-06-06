@@ -1,6 +1,6 @@
-### Guia rápido - projetos Expo
+# Guia rápido - projetos Expo
 
-##### Instalando/atualizando o Expo
+## Instalando/atualizando o Expo
 
 - verificar versão do expo:
 
@@ -40,7 +40,7 @@ expo update
 
 
 
-##### Iniciando um projeto Expo do 0
+## Iniciando um projeto Expo do 0
 
 *** Uma pasta do projeto será criada automaticamente ao se iniciar um repositório Expo
 
@@ -61,7 +61,7 @@ cd <nome_do_projeto>
 
 
 
-##### Instalando pacotes a projetos
+## Instalando pacotes a projetos
 
 ***Evitar instalar os pacotes usando npm ou yarn diretamente, pois algumas versões mais recentes de pacotes são incompatíveis com o expo
 
@@ -81,7 +81,7 @@ expo add <pacote>
 
 
 
-##### Continuando um projeto Expo já iniciado
+## Continuando um projeto Expo já iniciado
 
 - dar pull em um repo já inciado, ou clonar o repo
 
@@ -123,7 +123,7 @@ web-build/
 
 
 
-##### Depurando apps Expo
+## Depurando apps Expo
 
 - Para logs detalhados no chrome:
   1. abrir dev menu (chacoalhar celular com o app aberto)
@@ -168,7 +168,7 @@ react-devtools
 
 
 
-##### Checando comandos
+## Checando comandos
 
 - do Expo:
 
