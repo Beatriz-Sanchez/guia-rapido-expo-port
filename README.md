@@ -138,6 +138,18 @@ web-build/
 LogBox.ignoreLogs(['Remote debugger'])
 ```
 
+*** Para evitar erros ao acionar o remote debugger, configure o seu console para limpar o cache sempre que estiver aberto, e então sempre deixe seu console aberto na guia em que o remote debugger estiver rodando
+- caso seja necessário limpar o cache de todos os bundlers do expo:
+
+```
+del node_modules
+npm cache clean --force
+npm install
+watchman watch-del-all
+del %appdata%\Temp\haste-map-*
+del %appdata%\Temp\metro-cache
+expo start --clear
+```
 
 
 - diagnóstico (versões, aparelho, etc) - antigo expo diagnosis
